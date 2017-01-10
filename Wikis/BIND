@@ -1,1 +1,4 @@
 https://github.com/fjemal/NTI-310/blob/master/BIND
+# BIND is the de facto standard DNS server. It is a free software product and is distributed with most Unix and Linux platforms
+
+# BIND underwent three major revisions, each with significantly different architectures: BIND4, BIND8, and BIND9.
