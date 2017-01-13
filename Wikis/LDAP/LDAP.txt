@@ -1,0 +1,12 @@
+![](http://www.techbrown.com/wp-content/uploads/2015/11/ldap.png)
+### Welcome to the ldap wiki!
+
+ldap is a protocol used my network applications, such as email, to look up information. LDAP is mostly used by medium-to-large organi­zations. If you belong to one that has an LDAP server, you can use it to look up contact info and the like. 
+
+### **What are the advantages?**
+
+* Your organization can be consolidated into a central repository
+* Is easily distributed across multiple servers
+* Allows for more frequent data synchronization between masters and replicas
+* Makes resources easily accessible with human readable identifiers 
+* Allows for more frequent data synchronization between masters and replicas
